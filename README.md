@@ -1,0 +1,1 @@
+In the Kaggle competition, I tackled an imbalanced binary classification dataset using tree-based models for prediction. With an ensemble modeling method of Random Forest and Gradient Boosting, I achieved a F-Score of 0.70.
